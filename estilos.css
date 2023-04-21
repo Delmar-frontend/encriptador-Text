@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+.img__pagina{
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+.encabezado{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: greenyellow;
+    padding: 2%;
+    width: 100%;
+    font-family: 'Tilt Prism', cursive;
+    font-weight: 600;
+}
+.tergetas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5%;
+}
+.target{
+    height: 200px;
+    width: 500px;
+    border: none;
+    border-radius: 20px;
+    padding: 2%;
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    outline-color: greenyellow;
+    color: greenyellow;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+}
+.btn{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 4%;
+padding:2%;
+}
+.btn__evento{
+    justify-content: center;
+    margin-left: 10px;
+    color: black;
+    background-color: greenyellow;
+    width: 10%;
+    height: 55px;
+    font-size: medium;
+    border-radius: 20px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: larger;
+}
+
