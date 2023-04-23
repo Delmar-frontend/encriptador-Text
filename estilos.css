@@ -58,3 +58,9 @@ padding:2%;
     font-size: larger;
 }
 
+
+@media screen and (max-width:750px) {
+    body{
+        display: block;
+    }
+}
